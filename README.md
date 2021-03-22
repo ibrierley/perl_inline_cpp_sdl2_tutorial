@@ -1,1 +1,5 @@
-# perl_inline_cpp_sdl2_tutorial
+# A tutorial making a simple game with Perl, Inline C++, SDL2.
+
+
+
+
